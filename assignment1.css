@@ -1,0 +1,96 @@
+.mongo{
+    width: 300px;
+    text-align: center;
+    height: 650px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+    display: inline-block;
+    border-color: black;
+  
+   
+ }
+ #img{
+   width:300px;
+   height: 250px;
+ }
+ .case{
+     background-color: darkgreen;
+     color: white;
+     font-size: 16px;
+     text-align: center;
+   width: 305px;
+ }
+ .data{
+     background-color: darkgreen;
+     color: white;
+     font-size: 16px;
+     text-align: center;
+   width: 305px;
+ }
+ .risk{
+     background-color: darkgreen;
+     color: white;
+     font-size: 16px;
+     text-align: center;
+   width: 305px;
+ }
+ .analy{
+     background-color: darkgreen;
+     color: white;
+     font-size: 16px;
+     text-align: center;
+   width: 305px;
+ }
+ .case_sql{
+   background-color:orangered;
+   color: white;
+   font-size: 16px;
+   text-align: center;
+ width: 300px;
+ 
+ }
+ .data_sql{
+   background-color:orangered;
+     color: white;
+     font-size: 16px;
+     text-align: center;
+   width: 300px;
+  
+ }
+ .risk_sql{
+   background-color:orangered;
+     color: white;
+     font-size: 16px;
+     text-align: center;
+   width: 300px;
+ }
+ .analy_sql{
+   background-color: orangered;
+   color: white;
+   font-size: 16px;
+   text-align: center;
+ width: 300px;
+ }
+ .SQL{
+   width: 300px;
+   text-align: center;
+   height: 650px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   padding-top: 100px;
+   display: inline-block;
+   border-color: rgb(16, 15, 15);
+  border-inline-end-style: double;
+  border-left-style: double;
+  
+   
+ }
+ #img_sql{
+   width:300px;
+   height: 200px;
+ }
+ #a{
+   padding-top: 0px;
+ }
+ #b{
+   padding-top: 20px;
+ }
